@@ -9,7 +9,7 @@ AIGC:
     ReservedCode2: qH3+phws2bKxCRKw4nj/6Cjx6vjrAxUB0FYozpzHo4a6q51vW/JpAisavSsMObB3rgeAUS1bf36YPApdmDFfu4EaZz0jy+okRNbJG4g/hlkDzyFefex6aKwaW2FVMgJmbVLx8DmBHq0Xccxcq5hZ7btWfwV06wC7qOl1Qp3wx+FxJnvUW6h6ykyxLZ8=
 ---
 
-# TODO_NAME | Embodied AI Portfolio
+# 陈锦鸿 | Embodied AI Portfolio
 
 基于纯静态 HTML/CSS/JS 构建的个人作品集网站，支持中英文切换和明暗主题。部署于 GitHub Pages。
 
@@ -79,7 +79,7 @@ git push -u origin main
 
 ### 替换个人信息
 
-1. 全局搜索 `TODO_NAME` 并替换为你的真实姓名
+1. 全局搜索 `陈锦鸿` 并替换为你的真实姓名
 2. 全局搜索 `TODO_EMAIL` 替换为你的邮箱
 3. 全局搜索 `TODO_GITHUB` 替换为你的 GitHub 用户名
 4. 修改 `lang/zh.json` 和 `lang/en.json` 中的文案
