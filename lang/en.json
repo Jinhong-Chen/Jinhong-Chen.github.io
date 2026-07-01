@@ -1,0 +1,80 @@
+{
+  "page": {
+    "title": "TODO_NAME | Embodied AI Portfolio"
+  },
+  "nav": {
+    "about": "About",
+    "focus": "Focus",
+    "projects": "Projects",
+    "skills": "Skills"
+  },
+  "hero": {
+    "command": "whoami",
+    "title": "Embodied AI & Robotics",
+    "subtitle": "M.Sc. Candidate @ Xidian University Hangzhou · Next-Gen Electronic Information Technology"
+  },
+  "about": {
+    "title": "About Me",
+    "text1": "I am currently a first-year M.Sc. student in Next-Generation Electronic Information Technology at Xidian University's Hangzhou Institute. I expect to graduate in 2028 and plan to participate in the autumn recruitment around September 2027. During my undergraduate studies in Mechatronic Engineering, I worked on mechanical structure design for robots, logistics handling robots, and visual SLAM projects, building a solid foundation in robotic system understanding, hardware integration, and engineering debugging.",
+    "text2": "In graduate school, I am transitioning towards Embodied AI, VLA applications, active vision, and AI engineering deployment for robotics, aiming to develop a unique combination of: robotic system background + AI perception models + real-robot engineering closed loop.",
+    "goal": "2027 Recruitment Target: Embodied AI / Robot Algorithms / VLA Applications / Multimodal Robot Perception / AI Engineering Deployment"
+  },
+  "focus": {
+    "title": "Focus Areas",
+    "a": {
+      "title": "Embodied AI & VLA Applications",
+      "desc": "Long-term main direction, focusing on the application of Vision-Language-Action models in robotic tasks. Combines real robots, data collection, model fine-tuning, and on-robot deployment to close the loop from perception to action."
+    },
+    "b": {
+      "title": "Active Vision & Next-Best-View Selection",
+      "desc": "Preliminary thesis direction: active vision reliability assessment and next-best-view selection for embodied tasks. Determines whether the robot's current observation is reliable—detecting occlusions, distractors, spurious correlations, or insufficient viewpoints—and actively selects a better viewpoint when the current one is unsuitable."
+    },
+    "c": {
+      "title": "Heterogeneous Robot Management & Scheduling",
+      "desc": "Supporting engineering direction, focusing on unified management, task scheduling, and system integration across multi-robot, multi-embodiment, heterogeneous platforms, complementing robot system architecture and engineering deployment capabilities."
+    }
+  },
+  "projects": {
+    "title": "Selected Projects",
+    "p1": {
+      "title": "Indoor Assistive Glasses for the Visually Impaired",
+      "desc": "Designed for visually impaired users in home environments, based on RISC-V architecture, OpenHarmony OS, edge vision inference, cloud LLM invocation, and StarFlash communication. Led project execution, product solution design, commercialization pitch, OpenHarmony communication forwarding, and StarFlash integration. Participated in YOLO & MediaPipe model lightweight pruning and edge deployment.",
+      "result": "Result: 4th place in competition; investment interest received"
+    },
+    "p2": {
+      "title": "Visual SLAM Logistics Robot (Undergraduate Thesis)",
+      "desc": "Implemented mapping, visual relocalization, navigation, and path planning for logistics robots using open-source algorithms and robot kits. Responsible for system architecture design, algorithm integration, mapping & localization pipeline debugging, navigation verification, and overall system integration."
+    },
+    "p3": {
+      "title": "RoboCup Logistics Handling Robot (Undergraduate)",
+      "desc": "Completed the robot from scratch: mechanical structure design, manufacturing & assembly, robotic arm posture design, and basic control. Responsible for mechanical design, machining & assembly, arm posture design, control debugging, and on-site engineering troubleshooting."
+    },
+    "p4": {
+      "title": "SO-ARM101 Manipulation Learning [Work in Progress]",
+      "desc": "Based on the open-source SO-ARM101 arm and π0.5 model. Plans to achieve small-object pick-and-place via few-shot data collection. Target pipeline: Data Collection → Model Fine-tuning → Inference Deployment → Real-Robot Execution → Experimental Evaluation."
+    },
+    "p5": {
+      "title": "Active Vision Reliability Assessment & NBV Selection [Research Direction]",
+      "desc": "For embodied tasks, adds a lightweight judgment module to VLA or robot manipulation models to assess whether the current viewpoint is reliable. If occlusions, distractors, spurious correlations, or insufficient viewpoints are detected, the system actively selects a better viewpoint for re-observation."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "s1": {
+      "title": "Current Strengths",
+      "items": ["Robot System Understanding", "Mechatronic System Background", "Hardware Assembly & Debugging", "Project Coordination", "Product Solution Design", "AI Application Integration", "Technical Communication & Presentation"]
+    },
+    "s2": {
+      "title": "Technical Exposure",
+      "items": ["SLAM", "ROS/ROS2", "OpenHarmony", "RISC-V", "YOLO", "MediaPipe", "Edge AI Deployment", "Multimodal AI", "VLA", "Robot Navigation", "Path Planning"]
+    },
+    "s3": {
+      "title": "Learning Roadmap",
+      "items": ["Python Engineering", "PyTorch Training Pipeline", "C++ Engineering", "ROS2", "Robot Control", "Model Fine-tuning", "Data Collection & Evaluation", "GitHub Project Documentation"]
+    }
+  },
+  "footer": {
+    "tagline": "Robotic System Background + AI Perception + Real-Robot Engineering",
+    "copyright": "© 2025 TODO_NAME | Powered by GitHub Pages"
+  }
+}
