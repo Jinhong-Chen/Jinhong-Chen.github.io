@@ -9,7 +9,7 @@
     "skills": "技能"
   },
   "hero": {
-    "command": "whoami",
+    "greeting": "你好，我是",
     "title": "具身智能 & 机器人",
     "subtitle": "西安电子科技大学杭州研究院 · 新一代电子信息技术 · 硕士研究生"
   },

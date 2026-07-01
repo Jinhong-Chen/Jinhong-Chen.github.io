@@ -9,7 +9,7 @@
     "skills": "Skills"
   },
   "hero": {
-    "command": "whoami",
+    "greeting": "Hi, I'm",
     "title": "Embodied AI & Robotics",
     "subtitle": "M.Sc. Candidate @ Xidian University Hangzhou · Next-Gen Electronic Information Technology"
   },
