@@ -3,6 +3,7 @@
     "title": "陈锦鸿 | 个人介绍"
   },
   "nav": {
+    "brand": "陈锦鸿",
     "about": "关于",
     "focus": "方向",
     "projects": "项目",
@@ -10,6 +11,7 @@
   },
   "hero": {
     "greeting": "你好，我是",
+    "name": "陈锦鸿",
     "title": "具身智能 & 机器人",
     "subtitle": "西安电子科技大学杭州研究院 · 新一代电子信息技术 · 硕士研究生"
   },
@@ -74,6 +76,7 @@
     }
   },
   "footer": {
+    "brand": "陈锦鸿",
     "tagline": "构建机器人系统背景 + AI感知模型 + 真机工程闭环",
     "copyright": "© 2025 陈锦鸿 | Powered by GitHub Pages"
   }

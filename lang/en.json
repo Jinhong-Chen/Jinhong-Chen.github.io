@@ -3,6 +3,7 @@
     "title": "Jinhong Chen | Personal Site"
   },
   "nav": {
+    "brand": "Jinhong Chen",
     "about": "About",
     "focus": "Focus",
     "projects": "Projects",
@@ -10,6 +11,7 @@
   },
   "hero": {
     "greeting": "Hi, I'm",
+    "name": "Jinhong Chen",
     "title": "Embodied AI & Robotics",
     "subtitle": "M.Sc. Candidate @ Xidian University Hangzhou · Next-Gen Electronic Information Technology"
   },
@@ -74,6 +76,7 @@
     }
   },
   "footer": {
+    "brand": "Jinhong Chen",
     "tagline": "Robotic System Background + AI Perception + Real-Robot Engineering",
     "copyright": "© 2025 陈锦鸿 | Powered by GitHub Pages"
   }
